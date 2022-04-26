@@ -1,4 +1,4 @@
-#Divide
+#Divide no.s
               
         IN
         STO first
