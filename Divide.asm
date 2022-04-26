@@ -1,8 +1,8 @@
 #Divide
               
-        INP
+        IN
         STO first
-        INP
+        IN
         STO second
 loop    LDA first
         BRZ end
